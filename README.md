@@ -1,0 +1,1 @@
+This example incorporates the bold tag.
